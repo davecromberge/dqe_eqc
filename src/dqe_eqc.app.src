@@ -1,0 +1,10 @@
+{application, dqe_eqc,
+ [{description, "EQC generators for DalmatinerDB queries"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications, []},
+  {env,[]},
+  {maintainers, []},
+  {licenses, ["MIT"]},
+  {links, []}
+ ]}.
